@@ -1,0 +1,21 @@
+a.nrows() = 2
+mstat(a.nrows()) = mstat(2)
+obs.size() = 183
+nobs(obs.size()) = nobs(183)
+b.ncols() = 27
+ksym(b.ncols()) = ksym(27)
+alpha(nobs,mstat) = alpha(183,2)
+beta(nobs,mstat) = beta(183,2)
+pstate(nobs,mstat) = pstate(183,2)
+arnrm(nobs) = arnrm(183)
+brnrm(nobs) = brnrm(183)
+BIG = 1e+020
+BIGI = 1e-020
+
+Observe = 11	Observe = 2	Observe = 3	Observe = 5	Observe = 7	Observe = 1	Observe = 7	Observe = 7	Observe = 8	Observe = 9	Observe = 6	Observe = 4	Observe = 7	Observe = 5	Observe = 3	Observe = 10	Observe = 12	Observe = 14	Observe = 15	Observe = 16	Observe = 12	Observe = 20	Observe = 17	Observe = 15	Observe = 12	Observe = 11	Observe = 2	Observe = 3	Observe = 5	Observe = 7	Observe = 1	Observe = 4	Observe = 7	Observe = 8	Observe = 9	Observe = 6	Observe = 4	Observe = 7	Observe = 5	Observe = 3	Observe = 10	Observe = 12	Observe = 14	Observe = 15	Observe = 16	Observe = 12	Observe = 20	Observe = 17	Observe = 15	Observe = 12	Observe = 11	Observe = 2	Observe = 3	Observe = 5	Observe = 7	Observe = 1	Observe = 4	Observe = 7	Observe = 8	Observe = 9	Observe = 6	Observe = 4	Observe = 7	Observe = 5	Observe = 3	Observe = 10	Observe = 12	Observe = 14	Observe = 15	Observe = 16	Observe = 12	Observe = 20	Observe = 17	Observe = 15	Observe = 12	Observe = 11	Observe = 2	Observe = 3	Observe = 5	Observe = 8	Observe = 1	Observe = 7	Observe = 7	Observe = 8	Observe = 9	Observe = 6	Observe = 4	Observe = 7	Observe = 5	Observe = 3	Observe = 10	Observe = 12	Observe = 14	Observe = 15	Observe = 16	Observe = 12	Observe = 3	Observe = 17	Observe = 15	Observe = 12	Observe = 11	Observe = 2	Observe = 3	Observe = 19	Observe = 14	Observe = 1	Observe = 7	Observe = 7	Observe = 8	Observe = 9	Observe = 6	Observe = 4	Observe = 7	Observe = 5	Observe = 3	Observe = 10	Observe = 12	Observe = 24	Observe = 15	Observe = 16	Observe = 12	Observe = 2	Observe = 17	Observe = 15	Observe = 12	Observe = 2	Observe = 3	Observe = 23	Observe = 18	Observe = 1	Observe = 14	Observe = 7	Observe = 8	Observe = 9	Observe = 6	Observe = 4	Observe = 7	Observe = 5	Observe = 3	Observe = 10	Observe = 12	Observe = 14	Observe = 15	Observe = 16	Observe = 12	Observe = 11	Observe = 17	Observe = 15	Observe = 12	Observe = 11	Observe = 2	Observe = 3	Observe = 21	Observe = 13	Observe = 1	Observe = 26	Observe = 7	Observe = 8	Observe = 9	Observe = 6	Observe = 4	Observe = 7	Observe = 5	Observe = 3	Observe = 10	Observe = 12	Observe = 14	Observe = 15	Observe = 16	Observe = 12	Observe = 23	Observe = 17	Observe = 15	Observe = 12	Observe = 15	Observe = 16	Observe = 12	Observe = 23	Observe = 17	Observe = 15	Observe = 12	Observe = 25	Observe = 22	
+
+a[0][0] = 	0.47468	a[0][1] = 	0.52532	
+a[1][0] = 	0.51656	a[1][1] = 	0.48344	
+
+b[0][0] = 	0.0390888	b[0][1] = 	0.0353689	b[0][2] = 	0.0353689	b[0][3] = 	0.0390888	b[0][4] = 	0.0358289	b[0][5] = 	0.0362989	b[0][6] = 	0.0404788	b[0][7] = 	0.0353689	b[0][8] = 	0.0381589	b[0][9] = 	0.0390888	b[0][10] = 	0.034899	b[0][11] = 	0.0372289	b[0][12] = 	0.0353689	b[0][13] = 	0.0390888	b[0][14] = 	0.033969	b[0][15] = 	0.033969	b[0][16] = 	0.0381589	b[0][17] = 	0.0367589	b[0][18] = 	0.0404788	b[0][19] = 	0.034429	b[0][20] = 	0.0353689	b[0][21] = 	0.0395488	b[0][22] = 	0.0381589	b[0][23] = 	0.0372289	b[0][24] = 	0.0376889	b[0][25] = 	0.0395488	b[0][26] = 	0.033969	
+b[1][0] = 	0.0373489	b[1][1] = 	0.034079	b[1][2] = 	0.034549	b[1][3] = 	0.0382789	b[1][4] = 	0.0378189	b[1][5] = 	0.0392188	b[1][6] = 	0.0368789	b[1][7] = 	0.034079	b[1][8] = 	0.0387488	b[1][9] = 	0.0406188	b[1][10] = 	0.0373489	b[1][11] = 	0.0396788	b[1][12] = 	0.0354789	b[1][13] = 	0.0373489	b[1][14] = 	0.0406188	b[1][15] = 	0.0359489	b[1][16] = 	0.0364089	b[1][17] = 	0.034079	b[1][18] = 	0.0406188	b[1][19] = 	0.0354789	b[1][20] = 	0.0392188	b[1][21] = 	0.0406188	b[1][22] = 	0.034549	b[1][23] = 	0.0359489	b[1][24] = 	0.034079	b[1][25] = 	0.034079	b[1][26] = 	0.0368789	
